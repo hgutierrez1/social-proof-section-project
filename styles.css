@@ -173,13 +173,11 @@ height: 82%;
     .rating{
        flex-direction: column;
        padding: 20px;
+       margin-bottom: 20px;
        width: 100%;
     }
     .stars{
         padding-top: 12px;
-    }
-    .rating p{
-       padding-bottom: 28px; 
     }
     #first,#second,#third{
         height: 24%;
