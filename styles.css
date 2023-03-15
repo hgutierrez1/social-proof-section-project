@@ -73,7 +73,7 @@ height: 82%;
 #third{
     align-self: flex-end;
 }
-#stars{
+.stars{
     padding: 0 28px;
 }
 .rating p{
@@ -175,7 +175,7 @@ height: 82%;
        padding: 20px;
        width: 100%;
     }
-    #stars{
+    .stars{
         padding-top: 12px;
     }
     .rating p{
